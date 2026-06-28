@@ -12,5 +12,5 @@ Tarea01 de Diseño de Software
 | --- | Luis Mendoza | Luis Vargas | Ignacio Cando |
 | --- | --- | --- | --- |
 | Luis Mendoza | --- | 10/10 | 10/10 |
-| Luis Vargas | --- | --- | --- |
+| Luis Vargas | 10/10 | --- | 10/10 |
 | Ignacio Cando | --- | --- | --- |
